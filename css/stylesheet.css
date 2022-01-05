@@ -22,3 +22,13 @@ ul {
 footer{
   margin-top:5em;
 }
+span {
+  color: orange;
+  font-weight: bold;
+}
+div{
+  padding:10px;
+}
+div div{
+  margin-top:5px;
+}
