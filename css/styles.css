@@ -4,6 +4,7 @@ body{
 .content{
   width:80%;
   margin:auto;
+  font-family: cursive;
 }
 h2.intro{
   color:rgb(4, 107, 0);
